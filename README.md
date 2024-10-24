@@ -6,5 +6,4 @@ Making a change to probe
 
 
 Making a test change from remote
-
-I'm workshop in 2024...
+I'm doing a workshop in 2024
